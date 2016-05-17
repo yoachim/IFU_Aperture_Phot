@@ -1,0 +1,17 @@
+
+califa targets from http://www.caha.es/CALIFA/public_html/?q=content/list-objects-included-dr3&explorer=1
+
+Guillermo did some image registering things here:
+https://trac.sdss.org/wiki/MANGA/On_Sky_Test/IFUbroadband
+
+Just picking a galaxy at random.  Let's try NGC 0234.  Looks like there's a CALIFA cube, SDSS, 2MASS, GALEX, WISE. 
+
+WISE data from:
+http://wise2.ipac.caltech.edu/docs/release/allsky/
+
+CALIFA cube from
+http://www.caha.es/CALIFA/public_html/?q=content/califa-explorer-v01&califaid=31
+
+SDSS from
+http://skyserver.sdss.org/dr12/en/tools/explore/fitsimg.aspx?id=1237653651302711312&spec=471804044415887360&apid=&fieldId=0x112d077040dd0000&ra=10.8849592313547&dec=14.3425614746331&plateId=471752092491474944
+
